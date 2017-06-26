@@ -164,6 +164,7 @@ eo|https://eo.wikipedia.org/wiki/$1
 eokulturcentro|https://esperanto.toulouse.free.fr/nova/wikini/wakka.php?wiki=$1
 epo|https://epo.wikipedia.org/wiki/$1
 es|https://es.wikipedia.org/wiki/$1
+estestwiki|https://es.publictestwiki.com/wiki/$1
 et|https://et.wikipedia.org/wiki/$1
 ethnologue|https://www.ethnologue.com/show_language.asp?code=$1
 eu|https://eu.wikipedia.org/wiki/$1
@@ -352,6 +353,7 @@ mh|https://mh.wikipedia.org/wiki/$1
 mi|https://mi.wikipedia.org/wiki/$1
 mineralienatlas|https://www.mineralienatlas.de/lexikon/index.php/$1
 minnan|https://minnan.wikipedia.org/wiki/$1
+miraheze|https://meta.miraheze.org/wiki/$1
 mk|https://mk.wikipedia.org/wiki/$1
 ml|https://ml.wikipedia.org/wiki/$1
 mn|https://mn.wikipedia.org/wiki/$1
@@ -461,6 +463,7 @@ pnt|https://pnt.wikipedia.org/wiki/$1
 ps|https://ps.wikipedia.org/wiki/$1
 psycle|https://psycle.sourceforge.net/wiki/$1
 pt|https://pt.wikipedia.org/wiki/$1
+publictestwiki|https://publictestwiki.com/wiki/$1
 purlnet|https://purl.oclc.org/NET/$1
 pythoninfo|https://www.python.org/cgi-bin/moinmoin/$1
 pythonwiki|https://www.pythonwiki.de/$1
